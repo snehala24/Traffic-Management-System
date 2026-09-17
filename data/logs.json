@@ -1,0 +1,5840 @@
+[
+    {
+        "time": "2026-03-17 08:17:26.600335",
+        "violation": {
+            "plate": "IR34XO8123",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:27.527931",
+        "violation": {
+            "plate": "QK31AM7502",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:27.708817",
+        "violation": {
+            "plate": "EI54DB4301",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:27.928763",
+        "violation": {
+            "plate": "UI83YU1110",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:28.131758",
+        "violation": {
+            "plate": "CU96GM3937",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:28.330859",
+        "violation": {
+            "plate": "EJ63YZ2476",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:28.521365",
+        "violation": {
+            "plate": "NZ60BU4725",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:28.731796",
+        "violation": {
+            "plate": "BV73LW5241",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:28.951736",
+        "violation": {
+            "plate": "DL99MU1123",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:29.169083",
+        "violation": {
+            "plate": "BE40YL3896",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:29.386280",
+        "violation": {
+            "plate": "AS66YU2864",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:29.585904",
+        "violation": {
+            "plate": "MM64EG9216",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:29.801266",
+        "violation": {
+            "plate": "FH37TP1020",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:30.001659",
+        "violation": {
+            "plate": "CH14HK8055",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:30.228663",
+        "violation": {
+            "plate": "CI21HM2566",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:30.436492",
+        "violation": {
+            "plate": "RJ58FW1372",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:30.644953",
+        "violation": {
+            "plate": "TY14OM7233",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:30.862711",
+        "violation": {
+            "plate": "DJ69BE4863",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:31.064281",
+        "violation": {
+            "plate": "IF22CV7893",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:31.272280",
+        "violation": {
+            "plate": "US77EJ5194",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:31.488495",
+        "violation": {
+            "plate": "ZO86OU1214",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:31.798083",
+        "violation": {
+            "plate": "OK72RM2884",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:32.018451",
+        "violation": {
+            "plate": "IJ94HW6136",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:32.218146",
+        "violation": {
+            "plate": "MQ81RW9042",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:32.442890",
+        "violation": {
+            "plate": "NE42UJ1031",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:32.651716",
+        "violation": {
+            "plate": "QC22NN2901",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:32.866825",
+        "violation": {
+            "plate": "JR55QO8032",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:33.045074",
+        "violation": {
+            "plate": "FK63XA1802",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:33.253038",
+        "violation": {
+            "plate": "DC62YX4596",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:33.485611",
+        "violation": {
+            "plate": "OI22LT3156",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:33.708968",
+        "violation": {
+            "plate": "UI35IX2775",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:33.960097",
+        "violation": {
+            "plate": "DK86NC6376",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:34.218380",
+        "violation": {
+            "plate": "LN93IB5908",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:34.441512",
+        "violation": {
+            "plate": "NF76QH9240",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:34.660353",
+        "violation": {
+            "plate": "VU37CH7640",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:34.869086",
+        "violation": {
+            "plate": "EL56DM4795",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:35.095749",
+        "violation": {
+            "plate": "LA69KN8845",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:35.300682",
+        "violation": {
+            "plate": "JD42OG1636",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:35.524622",
+        "violation": {
+            "plate": "AX96OX4485",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:35.748531",
+        "violation": {
+            "plate": "PW12HY5011",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:35.973492",
+        "violation": {
+            "plate": "WL57JQ3195",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:36.212328",
+        "violation": {
+            "plate": "QN32IN7174",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:36.420158",
+        "violation": {
+            "plate": "MK37AR5362",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:36.656458",
+        "violation": {
+            "plate": "IT64KR7258",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:36.861762",
+        "violation": {
+            "plate": "IA88NB7966",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:37.099812",
+        "violation": {
+            "plate": "OO83IZ1760",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:37.317232",
+        "violation": {
+            "plate": "WW38NT7431",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:37.539536",
+        "violation": {
+            "plate": "WE85HO5174",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:37.781103",
+        "violation": {
+            "plate": "XJ11SP6094",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:38.019943",
+        "violation": {
+            "plate": "SJ27EA3448",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:38.227647",
+        "violation": {
+            "plate": "EV66HN4235",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:38.452739",
+        "violation": {
+            "plate": "ZT61CP9537",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:38.661821",
+        "violation": {
+            "plate": "SX63EJ7094",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:38.850185",
+        "violation": {
+            "plate": "VQ41KV4014",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:39.063407",
+        "violation": {
+            "plate": "WC84IL2673",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:39.286791",
+        "violation": {
+            "plate": "ES58LS3947",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:39.520203",
+        "violation": {
+            "plate": "LU33JR6896",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:39.780730",
+        "violation": {
+            "plate": "BL40IL8401",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:40.036347",
+        "violation": {
+            "plate": "ME21DG5627",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:40.254372",
+        "violation": {
+            "plate": "LT30EK6873",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:40.468359",
+        "violation": {
+            "plate": "DR14SM2253",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:40.687647",
+        "violation": {
+            "plate": "ZT91YX9031",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:40.899870",
+        "violation": {
+            "plate": "DR42KR9813",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:41.111032",
+        "violation": {
+            "plate": "RP22PR5091",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:41.355264",
+        "violation": {
+            "plate": "SC34LA4913",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:41.558622",
+        "violation": {
+            "plate": "QW88IA8907",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:41.804606",
+        "violation": {
+            "plate": "GG64DK2414",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:42.024229",
+        "violation": {
+            "plate": "ZI51HB4362",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:42.260529",
+        "violation": {
+            "plate": "YA69FO7863",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:42.596357",
+        "violation": {
+            "plate": "XR15VZ2707",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:42.821756",
+        "violation": {
+            "plate": "CZ65JM2837",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:43.028760",
+        "violation": {
+            "plate": "JZ31FT1934",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:43.252761",
+        "violation": {
+            "plate": "XK87BC3627",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:43.477196",
+        "violation": {
+            "plate": "PR81OU7273",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:43.707833",
+        "violation": {
+            "plate": "MS60LE4524",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:43.921153",
+        "violation": {
+            "plate": "EK88OR1757",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:44.143134",
+        "violation": {
+            "plate": "JG76YR5639",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:44.372796",
+        "violation": {
+            "plate": "XT21XW1191",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:44.622695",
+        "violation": {
+            "plate": "OK41LF5174",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:44.820702",
+        "violation": {
+            "plate": "WL84YN4719",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:45.034417",
+        "violation": {
+            "plate": "QO37QK3623",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:45.254577",
+        "violation": {
+            "plate": "NH39GP9192",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:45.476646",
+        "violation": {
+            "plate": "HW41WD5328",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:45.701303",
+        "violation": {
+            "plate": "SZ33RA3700",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:45.920341",
+        "violation": {
+            "plate": "UG34EJ4306",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:46.172374",
+        "violation": {
+            "plate": "UC57CS8981",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:46.377807",
+        "violation": {
+            "plate": "GY10BG2197",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:46.584768",
+        "violation": {
+            "plate": "JE93ZT8562",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:46.804737",
+        "violation": {
+            "plate": "ZD80FI9953",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:47.014735",
+        "violation": {
+            "plate": "AY78RG3196",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:47.222259",
+        "violation": {
+            "plate": "YT62PP4104",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:47.417278",
+        "violation": {
+            "plate": "PX84UG2103",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:47.611668",
+        "violation": {
+            "plate": "MP25RX8826",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:47.816092",
+        "violation": {
+            "plate": "NA28HH6893",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:48.019719",
+        "violation": {
+            "plate": "DP33OJ2813",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:48.217367",
+        "violation": {
+            "plate": "DQ60TQ4221",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:48.440720",
+        "violation": {
+            "plate": "JY19WX2439",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:48.643202",
+        "violation": {
+            "plate": "KQ60BX5857",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:48.854151",
+        "violation": {
+            "plate": "BU87LP6794",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:49.054600",
+        "violation": {
+            "plate": "BU60GV8672",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:49.253519",
+        "violation": {
+            "plate": "AQ78VA1077",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:49.450746",
+        "violation": {
+            "plate": "PK24TP3990",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:49.653893",
+        "violation": {
+            "plate": "NN41NI6619",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:49.882702",
+        "violation": {
+            "plate": "RE38DK8655",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:50.089503",
+        "violation": {
+            "plate": "RO37GI6452",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:50.292323",
+        "violation": {
+            "plate": "KB97SK5657",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:50.609734",
+        "violation": {
+            "plate": "AJ68UZ2804",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:17:50.839392",
+        "violation": {
+            "plate": "UJ13UV4883",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:00.303904",
+        "violation": {
+            "plate": "WD25UC4131",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:00.614298",
+        "violation": {
+            "plate": "HV26IL9255",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:00.879698",
+        "violation": {
+            "plate": "HY13GO1220",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:01.146832",
+        "violation": {
+            "plate": "TX51JO6029",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:01.398476",
+        "violation": {
+            "plate": "UR77ME1485",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:01.623472",
+        "violation": {
+            "plate": "LZ97ZK7528",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:01.809009",
+        "violation": {
+            "plate": "YH19JX8332",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:02.015849",
+        "violation": {
+            "plate": "YF53NN7156",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:02.224029",
+        "violation": {
+            "plate": "HP37LW1635",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:02.421157",
+        "violation": {
+            "plate": "CQ72MW2771",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:02.622067",
+        "violation": {
+            "plate": "BF62UQ4950",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:02.822817",
+        "violation": {
+            "plate": "NS12YM8749",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:03.021774",
+        "violation": {
+            "plate": "JU64DE9425",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:04.652841",
+        "violation": {
+            "plate": "OO65ZW1150",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:04.896161",
+        "violation": {
+            "plate": "UC14DK1522",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:05.166170",
+        "violation": {
+            "plate": "MD31XZ1606",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:25:05.404486",
+        "violation": {
+            "plate": "JN49UH8376",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:09.298515",
+        "data": {
+            "plate": "KY45EM8056",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KY45EM8056_20260317_083109.jpg",
+            "timestamp": "20260317_083109"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:09.559730",
+        "data": {
+            "plate": "VR27EU5544",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "VR27EU5544_20260317_083109.jpg",
+            "timestamp": "20260317_083109"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:09.777023",
+        "data": {
+            "plate": "QJ13CL9475",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "QJ13CL9475_20260317_083109.jpg",
+            "timestamp": "20260317_083109"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:10.036498",
+        "data": {
+            "plate": "MT11JK5111",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "MT11JK5111_20260317_083110.jpg",
+            "timestamp": "20260317_083110"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:10.258174",
+        "data": {
+            "plate": "FJ56PJ8856",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "FJ56PJ8856_20260317_083110.jpg",
+            "timestamp": "20260317_083110"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:10.517340",
+        "data": {
+            "plate": "RW76BV8803",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "RW76BV8803_20260317_083110.jpg",
+            "timestamp": "20260317_083110"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:10.718854",
+        "data": {
+            "plate": "XH39WC8327",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "XH39WC8327_20260317_083110.jpg",
+            "timestamp": "20260317_083110"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:10.933968",
+        "data": {
+            "plate": "NC55GV1699",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "NC55GV1699_20260317_083110.jpg",
+            "timestamp": "20260317_083110"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:11.141155",
+        "data": {
+            "plate": "XG42GY6478",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "XG42GY6478_20260317_083111.jpg",
+            "timestamp": "20260317_083111"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:11.369526",
+        "data": {
+            "plate": "MK54OT1291",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "MK54OT1291_20260317_083111.jpg",
+            "timestamp": "20260317_083111"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:11.568360",
+        "data": {
+            "plate": "MI25DM8058",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "MI25DM8058_20260317_083111.jpg",
+            "timestamp": "20260317_083111"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:11.780895",
+        "data": {
+            "plate": "QL11FE8604",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "QL11FE8604_20260317_083111.jpg",
+            "timestamp": "20260317_083111"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:12.015569",
+        "data": {
+            "plate": "UL37AU1248",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "UL37AU1248_20260317_083112.jpg",
+            "timestamp": "20260317_083112"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:12.220440",
+        "data": {
+            "plate": "ZH83HP4634",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZH83HP4634_20260317_083112.jpg",
+            "timestamp": "20260317_083112"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:12.443454",
+        "data": {
+            "plate": "KN83MK4818",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KN83MK4818_20260317_083112.jpg",
+            "timestamp": "20260317_083112"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:12.674479",
+        "data": {
+            "plate": "OR73VA5541",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "OR73VA5541_20260317_083112.jpg",
+            "timestamp": "20260317_083112"
+        }
+    },
+    {
+        "time": "2026-03-17 08:31:12.945586",
+        "data": {
+            "plate": "NP49AP1321",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "NP49AP1321_20260317_083112.jpg",
+            "timestamp": "20260317_083112"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.158093",
+        "data": {
+            "plate": "TK63XA4304",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "TK63XA4304_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.288557",
+        "data": {
+            "plate": "AV97YS2791",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "AV97YS2791_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.372275",
+        "data": {
+            "plate": "SY40CD4692",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "SY40CD4692_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.451507",
+        "data": {
+            "plate": "JP63KV8659",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "JP63KV8659_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.540269",
+        "data": {
+            "plate": "TZ85EJ9120",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "TZ85EJ9120_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.628341",
+        "data": {
+            "plate": "HZ57RH7408",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "HZ57RH7408_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.714162",
+        "data": {
+            "plate": "NF34BW3120",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "NF34BW3120_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.809857",
+        "data": {
+            "plate": "KU75IO8822",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KU75IO8822_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.903775",
+        "data": {
+            "plate": "XG15WF9721",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "XG15WF9721_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:10.984891",
+        "data": {
+            "plate": "KH95YW4383",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KH95YW4383_20260317_102010.jpg",
+            "timestamp": "20260317_102010"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.073615",
+        "data": {
+            "plate": "JG85CB5727",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "JG85CB5727_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.162188",
+        "data": {
+            "plate": "ZL32LX2800",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZL32LX2800_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.297873",
+        "data": {
+            "plate": "EJ30VY5480",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "EJ30VY5480_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.482914",
+        "data": {
+            "plate": "FO80OX8654",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "FO80OX8654_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.666190",
+        "data": {
+            "plate": "UA23AJ3272",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "UA23AJ3272_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:11.842620",
+        "data": {
+            "plate": "LP12FX1909",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "LP12FX1909_20260317_102011.jpg",
+            "timestamp": "20260317_102011"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.015872",
+        "data": {
+            "plate": "KF88NP8722",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KF88NP8722_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.186665",
+        "data": {
+            "plate": "NW28WX9995",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "NW28WX9995_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.348534",
+        "data": {
+            "plate": "OV37DN1354",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "OV37DN1354_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.517067",
+        "data": {
+            "plate": "TV84TS8694",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "TV84TS8694_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.694577",
+        "data": {
+            "plate": "GC52ZA6006",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "GC52ZA6006_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:12.858739",
+        "data": {
+            "plate": "IR20UK5619",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "IR20UK5619_20260317_102012.jpg",
+            "timestamp": "20260317_102012"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.005703",
+        "data": {
+            "plate": "AG29WM2990",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "AG29WM2990_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.155511",
+        "data": {
+            "plate": "EX40DI7809",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "EX40DI7809_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.324327",
+        "data": {
+            "plate": "OJ63YV7203",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "OJ63YV7203_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.504973",
+        "data": {
+            "plate": "PO49TF7007",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "PO49TF7007_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.671355",
+        "data": {
+            "plate": "ME29AG3239",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "ME29AG3239_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:13.834544",
+        "data": {
+            "plate": "UV14XF2836",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "UV14XF2836_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.001616",
+        "data": {
+            "plate": "WA89FG9025",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "WA89FG9025_20260317_102013.jpg",
+            "timestamp": "20260317_102013"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.155144",
+        "data": {
+            "plate": "YV99WP8173",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "YV99WP8173_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.332104",
+        "data": {
+            "plate": "FG12XS1665",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "FG12XS1665_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.493564",
+        "data": {
+            "plate": "UO63IT7345",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "UO63IT7345_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.653729",
+        "data": {
+            "plate": "ZE53GA4944",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZE53GA4944_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.819842",
+        "data": {
+            "plate": "BU27IB2937",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "BU27IB2937_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:14.999520",
+        "data": {
+            "plate": "PP40LH4731",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "PP40LH4731_20260317_102014.jpg",
+            "timestamp": "20260317_102014"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:15.167111",
+        "data": {
+            "plate": "UL71EX4343",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "UL71EX4343_20260317_102015.jpg",
+            "timestamp": "20260317_102015"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:15.337833",
+        "data": {
+            "plate": "LC27NJ2337",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "LC27NJ2337_20260317_102015.jpg",
+            "timestamp": "20260317_102015"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:15.514440",
+        "data": {
+            "plate": "CG72RI9987",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "CG72RI9987_20260317_102015.jpg",
+            "timestamp": "20260317_102015"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:15.696397",
+        "data": {
+            "plate": "XT20VW1313",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "XT20VW1313_20260317_102015.jpg",
+            "timestamp": "20260317_102015"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:15.850909",
+        "data": {
+            "plate": "NV54FK9036",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "NV54FK9036_20260317_102015.jpg",
+            "timestamp": "20260317_102015"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.016177",
+        "data": {
+            "plate": "TG10IU6682",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "TG10IU6682_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.184313",
+        "data": {
+            "plate": "RG40YV4505",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "RG40YV4505_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.352095",
+        "data": {
+            "plate": "KR34OC7859",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "KR34OC7859_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.512347",
+        "data": {
+            "plate": "GE70RE1679",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "GE70RE1679_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.681650",
+        "data": {
+            "plate": "GP49YY7211",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "GP49YY7211_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:20:16.857531",
+        "data": {
+            "plate": "AJ30OF8506",
+            "violations": [
+                "No Helmet"
+            ],
+            "signal": "RED",
+            "evidence_image": "AJ30OF8506_20260317_102016.jpg",
+            "timestamp": "20260317_102016"
+        }
+    },
+    {
+        "time": "2026-03-17 10:25:32.769487",
+        "data": {
+            "plate": "EU62DJ1501",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EU62DJ1501_20260317_102532.jpg",
+            "timestamp": "20260317_102532"
+        }
+    },
+    {
+        "time": "2026-03-17 10:28:16.043586",
+        "data": {
+            "plate": "EV55IX8881",
+            "violations": [
+                "No Helmet",
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "EV55IX8881_20260317_102816.jpg",
+            "timestamp": "20260317_102816"
+        }
+    },
+    {
+        "time": "2026-03-17 10:31:53.286425",
+        "data": {
+            "plate": "FF56MO4973",
+            "violations": [
+                "Possible No Helmet",
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "FF56MO4973_20260317_103153.jpg",
+            "timestamp": "20260317_103153"
+        }
+    },
+    {
+        "time": "2026-03-17 10:32:33.962437",
+        "data": {
+            "plate": "ZN49WW8918",
+            "violations": [
+                "Possible No Helmet",
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZN49WW8918_20260317_103233.jpg",
+            "timestamp": "20260317_103233"
+        }
+    },
+    {
+        "time": "2026-03-17 10:32:44.230908",
+        "data": {
+            "plate": "LU28YI9199",
+            "violations": [
+                "Possible No Helmet"
+            ],
+            "signal": "GREEN",
+            "evidence_image": "LU28YI9199_20260317_103244.jpg",
+            "timestamp": "20260317_103244"
+        }
+    },
+    {
+        "time": "2026-03-17 10:33:19.330778",
+        "data": {
+            "plate": "HW33IP4170",
+            "violations": [
+                "Possible No Helmet"
+            ],
+            "signal": "GREEN",
+            "evidence_image": "HW33IP4170_20260317_103319.jpg",
+            "timestamp": "20260317_103319"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:50.723055",
+        "data": {
+            "plate": "KJ41MV4347",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KJ41MV4347_20260317_114450.jpg",
+            "timestamp": "20260317_114450"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:50.934796",
+        "data": {
+            "plate": "EL99GR5984",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EL99GR5984_20260317_114450.jpg",
+            "timestamp": "20260317_114450"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.116995",
+        "data": {
+            "plate": "XI52MP8956",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XI52MP8956_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.283401",
+        "data": {
+            "plate": "QF96GA6805",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QF96GA6805_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.453872",
+        "data": {
+            "plate": "IW31ZY8188",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IW31ZY8188_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.654368",
+        "data": {
+            "plate": "MM14XN2254",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MM14XN2254_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.815077",
+        "data": {
+            "plate": "EV58QC3706",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EV58QC3706_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:51.980983",
+        "data": {
+            "plate": "WC79DB8172",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WC79DB8172_20260317_114451.jpg",
+            "timestamp": "20260317_114451"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.154194",
+        "data": {
+            "plate": "IQ51CG7348",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IQ51CG7348_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.314203",
+        "data": {
+            "plate": "SD94NR8107",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SD94NR8107_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.474095",
+        "data": {
+            "plate": "BE11LE9948",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BE11LE9948_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.632076",
+        "data": {
+            "plate": "EI78JB7450",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EI78JB7450_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.798666",
+        "data": {
+            "plate": "BC50ZR3929",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BC50ZR3929_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:52.970362",
+        "data": {
+            "plate": "ZX86UB9689",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZX86UB9689_20260317_114452.jpg",
+            "timestamp": "20260317_114452"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.132098",
+        "data": {
+            "plate": "RE84YC9157",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RE84YC9157_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.303264",
+        "data": {
+            "plate": "WN95XN5291",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WN95XN5291_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.473617",
+        "data": {
+            "plate": "VD30MV6037",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VD30MV6037_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.638525",
+        "data": {
+            "plate": "LL75IQ2612",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LL75IQ2612_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.798052",
+        "data": {
+            "plate": "VA12KI6261",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VA12KI6261_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:53.960655",
+        "data": {
+            "plate": "QW84ZU5854",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QW84ZU5854_20260317_114453.jpg",
+            "timestamp": "20260317_114453"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.128584",
+        "data": {
+            "plate": "KK86HU7346",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KK86HU7346_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.289414",
+        "data": {
+            "plate": "AS45TO6248",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AS45TO6248_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.472312",
+        "data": {
+            "plate": "MQ20XM2770",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MQ20XM2770_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.652577",
+        "data": {
+            "plate": "MG78XE2554",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MG78XE2554_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.815747",
+        "data": {
+            "plate": "DZ99WY6436",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DZ99WY6436_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:54.979622",
+        "data": {
+            "plate": "EO29TI4502",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EO29TI4502_20260317_114454.jpg",
+            "timestamp": "20260317_114454"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:55.143837",
+        "data": {
+            "plate": "BU96RF4406",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BU96RF4406_20260317_114455.jpg",
+            "timestamp": "20260317_114455"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:55.309666",
+        "data": {
+            "plate": "MH22EL1419",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MH22EL1419_20260317_114455.jpg",
+            "timestamp": "20260317_114455"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:55.496336",
+        "data": {
+            "plate": "JZ22SH4984",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JZ22SH4984_20260317_114455.jpg",
+            "timestamp": "20260317_114455"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:55.687673",
+        "data": {
+            "plate": "HL98NN7984",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HL98NN7984_20260317_114455.jpg",
+            "timestamp": "20260317_114455"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:55.861187",
+        "data": {
+            "plate": "OL66WZ4076",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OL66WZ4076_20260317_114455.jpg",
+            "timestamp": "20260317_114455"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.022283",
+        "data": {
+            "plate": "QJ77MP9327",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QJ77MP9327_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.195139",
+        "data": {
+            "plate": "YA47TB1567",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YA47TB1567_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.382233",
+        "data": {
+            "plate": "WO55MN6391",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WO55MN6391_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.549163",
+        "data": {
+            "plate": "UJ18WZ9094",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UJ18WZ9094_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.714868",
+        "data": {
+            "plate": "ZL38FO8581",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZL38FO8581_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:56.883273",
+        "data": {
+            "plate": "QJ74VJ1256",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QJ74VJ1256_20260317_114456.jpg",
+            "timestamp": "20260317_114456"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.060105",
+        "data": {
+            "plate": "PT48LA5437",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PT48LA5437_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.233095",
+        "data": {
+            "plate": "WG98ZQ3290",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WG98ZQ3290_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.398483",
+        "data": {
+            "plate": "VV75MI1452",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VV75MI1452_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.577970",
+        "data": {
+            "plate": "RI78WX2179",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RI78WX2179_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.738318",
+        "data": {
+            "plate": "VR96KP3659",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VR96KP3659_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:57.933076",
+        "data": {
+            "plate": "MV51FA4300",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MV51FA4300_20260317_114457.jpg",
+            "timestamp": "20260317_114457"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.121745",
+        "data": {
+            "plate": "ME92KJ4159",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ME92KJ4159_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.286224",
+        "data": {
+            "plate": "EZ46TS5067",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EZ46TS5067_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.449907",
+        "data": {
+            "plate": "EI47KO3144",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EI47KO3144_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.618434",
+        "data": {
+            "plate": "KJ16VQ6892",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KJ16VQ6892_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.811189",
+        "data": {
+            "plate": "JJ88QK9968",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JJ88QK9968_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:58.984070",
+        "data": {
+            "plate": "WL25BE3978",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WL25BE3978_20260317_114458.jpg",
+            "timestamp": "20260317_114458"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.152340",
+        "data": {
+            "plate": "QH38MY8777",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QH38MY8777_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.314671",
+        "data": {
+            "plate": "TY71AJ7938",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TY71AJ7938_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.479124",
+        "data": {
+            "plate": "PP53FR3590",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PP53FR3590_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.656933",
+        "data": {
+            "plate": "CF26KX7386",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CF26KX7386_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.818780",
+        "data": {
+            "plate": "CC64EL1113",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CC64EL1113_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:44:59.992269",
+        "data": {
+            "plate": "KY26VC2362",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KY26VC2362_20260317_114459.jpg",
+            "timestamp": "20260317_114459"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:00.181247",
+        "data": {
+            "plate": "UJ74SY6486",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UJ74SY6486_20260317_114500.jpg",
+            "timestamp": "20260317_114500"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:00.345509",
+        "data": {
+            "plate": "MU70HG6156",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MU70HG6156_20260317_114500.jpg",
+            "timestamp": "20260317_114500"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:00.512273",
+        "data": {
+            "plate": "KF88CC7989",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KF88CC7989_20260317_114500.jpg",
+            "timestamp": "20260317_114500"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:00.692152",
+        "data": {
+            "plate": "KS49LO2419",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KS49LO2419_20260317_114500.jpg",
+            "timestamp": "20260317_114500"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:00.855886",
+        "data": {
+            "plate": "LH75FG2431",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LH75FG2431_20260317_114500.jpg",
+            "timestamp": "20260317_114500"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.022867",
+        "data": {
+            "plate": "HZ62RS2386",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HZ62RS2386_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.192266",
+        "data": {
+            "plate": "BR96CX8865",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BR96CX8865_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.374558",
+        "data": {
+            "plate": "SG43ZR6652",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SG43ZR6652_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.544576",
+        "data": {
+            "plate": "UK16QQ1284",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UK16QQ1284_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.707511",
+        "data": {
+            "plate": "QQ70KY6753",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QQ70KY6753_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:01.901075",
+        "data": {
+            "plate": "WM73CD5194",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WM73CD5194_20260317_114501.jpg",
+            "timestamp": "20260317_114501"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.070563",
+        "data": {
+            "plate": "AG41OE5930",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AG41OE5930_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.242677",
+        "data": {
+            "plate": "CZ86BL9001",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CZ86BL9001_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.418482",
+        "data": {
+            "plate": "AV98IV8328",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AV98IV8328_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.588215",
+        "data": {
+            "plate": "SM14UY2660",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SM14UY2660_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.751787",
+        "data": {
+            "plate": "LE68MZ7066",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LE68MZ7066_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:02.926553",
+        "data": {
+            "plate": "ZM38IW8016",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZM38IW8016_20260317_114502.jpg",
+            "timestamp": "20260317_114502"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.092084",
+        "data": {
+            "plate": "XO26HH5337",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XO26HH5337_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.254071",
+        "data": {
+            "plate": "RT93XJ4171",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RT93XJ4171_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.416576",
+        "data": {
+            "plate": "UX87XO2020",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UX87XO2020_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.592838",
+        "data": {
+            "plate": "MV72AJ7604",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MV72AJ7604_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.782750",
+        "data": {
+            "plate": "SJ50XM4922",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SJ50XM4922_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:03.961683",
+        "data": {
+            "plate": "IF25MI7083",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IF25MI7083_20260317_114503.jpg",
+            "timestamp": "20260317_114503"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.130656",
+        "data": {
+            "plate": "MK21VO1921",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MK21VO1921_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.298403",
+        "data": {
+            "plate": "ZS45DZ3106",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZS45DZ3106_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.461388",
+        "data": {
+            "plate": "TQ20JV6921",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TQ20JV6921_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.644432",
+        "data": {
+            "plate": "QG44DK7982",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QG44DK7982_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.812869",
+        "data": {
+            "plate": "UT52LG3328",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UT52LG3328_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:04.994233",
+        "data": {
+            "plate": "IJ20BN5040",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IJ20BN5040_20260317_114504.jpg",
+            "timestamp": "20260317_114504"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:05.162623",
+        "data": {
+            "plate": "XH64JL6040",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XH64JL6040_20260317_114505.jpg",
+            "timestamp": "20260317_114505"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:05.332014",
+        "data": {
+            "plate": "NG54HE6928",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NG54HE6928_20260317_114505.jpg",
+            "timestamp": "20260317_114505"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:05.508856",
+        "data": {
+            "plate": "YQ89IU4000",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YQ89IU4000_20260317_114505.jpg",
+            "timestamp": "20260317_114505"
+        }
+    },
+    {
+        "time": "2026-03-17 11:45:05.695367",
+        "data": {
+            "plate": "VZ31DU4494",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VZ31DU4494_20260317_114505.jpg",
+            "timestamp": "20260317_114505"
+        }
+    },
+    {
+        "time": "2026-03-17 11:46:09.604421",
+        "data": {
+            "plate": "UX43RD7946",
+            "violations": [
+                "Possible No Helmet",
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "UX43RD7946_20260317_114609.jpg",
+            "timestamp": "20260317_114609"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:49.357395",
+        "data": {
+            "plate": "HU57LV4885",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HU57LV4885_20260317_124249.jpg",
+            "timestamp": "20260317_124249"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:49.583053",
+        "data": {
+            "plate": "BS66BL6656",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BS66BL6656_20260317_124249.jpg",
+            "timestamp": "20260317_124249"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:49.755653",
+        "data": {
+            "plate": "FP16IG3520",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FP16IG3520_20260317_124249.jpg",
+            "timestamp": "20260317_124249"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:49.934706",
+        "data": {
+            "plate": "MY62MN9103",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MY62MN9103_20260317_124249.jpg",
+            "timestamp": "20260317_124249"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:50.116411",
+        "data": {
+            "plate": "PA41ZH2210",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PA41ZH2210_20260317_124250.jpg",
+            "timestamp": "20260317_124250"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:50.299175",
+        "data": {
+            "plate": "QV12FS6526",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QV12FS6526_20260317_124250.jpg",
+            "timestamp": "20260317_124250"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:50.477413",
+        "data": {
+            "plate": "LU59VH7937",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LU59VH7937_20260317_124250.jpg",
+            "timestamp": "20260317_124250"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:50.675784",
+        "data": {
+            "plate": "LD47KC4530",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LD47KC4530_20260317_124250.jpg",
+            "timestamp": "20260317_124250"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:50.853951",
+        "data": {
+            "plate": "DG22NB5915",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DG22NB5915_20260317_124250.jpg",
+            "timestamp": "20260317_124250"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.027540",
+        "data": {
+            "plate": "AD68RV4588",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AD68RV4588_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.203026",
+        "data": {
+            "plate": "QU61JH2414",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QU61JH2414_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.371210",
+        "data": {
+            "plate": "DC40RS7894",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DC40RS7894_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.546188",
+        "data": {
+            "plate": "ZH12NV1321",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZH12NV1321_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.715178",
+        "data": {
+            "plate": "KR96VV1636",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KR96VV1636_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:51.888568",
+        "data": {
+            "plate": "BI46YJ4829",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BI46YJ4829_20260317_124251.jpg",
+            "timestamp": "20260317_124251"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.069020",
+        "data": {
+            "plate": "GC94DO7462",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GC94DO7462_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.256000",
+        "data": {
+            "plate": "WI97II6075",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WI97II6075_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.437294",
+        "data": {
+            "plate": "NA13PQ5358",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NA13PQ5358_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.615248",
+        "data": {
+            "plate": "NO47SW8487",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NO47SW8487_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.797499",
+        "data": {
+            "plate": "UQ76BF4857",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UQ76BF4857_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:52.973750",
+        "data": {
+            "plate": "CE93QY4844",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CE93QY4844_20260317_124252.jpg",
+            "timestamp": "20260317_124252"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:53.152208",
+        "data": {
+            "plate": "EM46LC4327",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EM46LC4327_20260317_124253.jpg",
+            "timestamp": "20260317_124253"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:53.340313",
+        "data": {
+            "plate": "FV12TW2341",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FV12TW2341_20260317_124253.jpg",
+            "timestamp": "20260317_124253"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:53.538456",
+        "data": {
+            "plate": "UQ11TM9274",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UQ11TM9274_20260317_124253.jpg",
+            "timestamp": "20260317_124253"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:53.703404",
+        "data": {
+            "plate": "DN94CK9087",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DN94CK9087_20260317_124253.jpg",
+            "timestamp": "20260317_124253"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:53.893016",
+        "data": {
+            "plate": "GO84IC6044",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GO84IC6044_20260317_124253.jpg",
+            "timestamp": "20260317_124253"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.070823",
+        "data": {
+            "plate": "DH76LP5582",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DH76LP5582_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.242232",
+        "data": {
+            "plate": "LT76SH5640",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LT76SH5640_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.413869",
+        "data": {
+            "plate": "UD90OP5709",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UD90OP5709_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.616418",
+        "data": {
+            "plate": "MV48BE6263",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MV48BE6263_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.789859",
+        "data": {
+            "plate": "QR72ZT8821",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QR72ZT8821_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:54.964030",
+        "data": {
+            "plate": "CJ48VF1130",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CJ48VF1130_20260317_124254.jpg",
+            "timestamp": "20260317_124254"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:55.159239",
+        "data": {
+            "plate": "JN37WB1063",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JN37WB1063_20260317_124255.jpg",
+            "timestamp": "20260317_124255"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:55.346140",
+        "data": {
+            "plate": "VZ32VG7140",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VZ32VG7140_20260317_124255.jpg",
+            "timestamp": "20260317_124255"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:55.527417",
+        "data": {
+            "plate": "EE49JE4867",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EE49JE4867_20260317_124255.jpg",
+            "timestamp": "20260317_124255"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:55.705366",
+        "data": {
+            "plate": "WJ14UR2401",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WJ14UR2401_20260317_124255.jpg",
+            "timestamp": "20260317_124255"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:55.897148",
+        "data": {
+            "plate": "EZ12UG1809",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EZ12UG1809_20260317_124255.jpg",
+            "timestamp": "20260317_124255"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:56.097219",
+        "data": {
+            "plate": "HE46TT2260",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HE46TT2260_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:56.270906",
+        "data": {
+            "plate": "PU46UI8882",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PU46UI8882_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:56.457884",
+        "data": {
+            "plate": "NI61XC4812",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NI61XC4812_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:56.645787",
+        "data": {
+            "plate": "FP70EI4145",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FP70EI4145_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:56.829917",
+        "data": {
+            "plate": "RA87TW5932",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RA87TW5932_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:57.000336",
+        "data": {
+            "plate": "KV86LW2192",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KV86LW2192_20260317_124256.jpg",
+            "timestamp": "20260317_124256"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:57.172395",
+        "data": {
+            "plate": "US81YH4129",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "US81YH4129_20260317_124257.jpg",
+            "timestamp": "20260317_124257"
+        }
+    },
+    {
+        "time": "2026-03-17 12:42:57.547737",
+        "data": {
+            "plate": "LQ58IQ1054",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LQ58IQ1054_20260317_124257.jpg",
+            "timestamp": "20260317_124257"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:03.930268",
+        "data": {
+            "plate": "JA95BD6063",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JA95BD6063_20260402_101303.jpg",
+            "timestamp": "20260402_101303"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.173343",
+        "data": {
+            "plate": "PW29RQ7983",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PW29RQ7983_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.334182",
+        "data": {
+            "plate": "SU16TW4375",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SU16TW4375_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.498223",
+        "data": {
+            "plate": "XT86JR9694",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XT86JR9694_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.665710",
+        "data": {
+            "plate": "QF33VI5345",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QF33VI5345_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.830879",
+        "data": {
+            "plate": "WU60DB7617",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WU60DB7617_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:04.995668",
+        "data": {
+            "plate": "GY88TL1626",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GY88TL1626_20260402_101304.jpg",
+            "timestamp": "20260402_101304"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.155241",
+        "data": {
+            "plate": "AW20YY3831",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AW20YY3831_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.311678",
+        "data": {
+            "plate": "CQ57GO9082",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CQ57GO9082_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.482628",
+        "data": {
+            "plate": "II41GA1048",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "II41GA1048_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.638304",
+        "data": {
+            "plate": "TU20XU4164",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TU20XU4164_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.797793",
+        "data": {
+            "plate": "CN52PD8803",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CN52PD8803_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:05.955642",
+        "data": {
+            "plate": "XD56MW1346",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XD56MW1346_20260402_101305.jpg",
+            "timestamp": "20260402_101305"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.118726",
+        "data": {
+            "plate": "HA55AM5210",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HA55AM5210_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.281680",
+        "data": {
+            "plate": "TK60VX6884",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TK60VX6884_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.441211",
+        "data": {
+            "plate": "HW84OB2808",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HW84OB2808_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.600895",
+        "data": {
+            "plate": "RC98HP2719",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RC98HP2719_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.766406",
+        "data": {
+            "plate": "OC40RW6887",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OC40RW6887_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:06.925123",
+        "data": {
+            "plate": "BF31XC7064",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BF31XC7064_20260402_101306.jpg",
+            "timestamp": "20260402_101306"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.077936",
+        "data": {
+            "plate": "NI16CE2016",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NI16CE2016_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.244139",
+        "data": {
+            "plate": "RB85GF2435",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RB85GF2435_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.403736",
+        "data": {
+            "plate": "OA21JF5351",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OA21JF5351_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.562734",
+        "data": {
+            "plate": "HC93QY1267",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HC93QY1267_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.740950",
+        "data": {
+            "plate": "OM60KN6811",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OM60KN6811_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:07.907194",
+        "data": {
+            "plate": "DG80GN9997",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DG80GN9997_20260402_101307.jpg",
+            "timestamp": "20260402_101307"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.083288",
+        "data": {
+            "plate": "PG73UT8341",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PG73UT8341_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.255532",
+        "data": {
+            "plate": "YI35NN6329",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YI35NN6329_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.431539",
+        "data": {
+            "plate": "ZI57NC5037",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZI57NC5037_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.626891",
+        "data": {
+            "plate": "FC38JC2735",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FC38JC2735_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.798038",
+        "data": {
+            "plate": "QQ96BC8939",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QQ96BC8939_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:08.964941",
+        "data": {
+            "plate": "JT99WP3010",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JT99WP3010_20260402_101308.jpg",
+            "timestamp": "20260402_101308"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.140896",
+        "data": {
+            "plate": "SD52ST7700",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SD52ST7700_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.304492",
+        "data": {
+            "plate": "XT81PT7384",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XT81PT7384_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.488914",
+        "data": {
+            "plate": "GZ37IG3077",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GZ37IG3077_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.659403",
+        "data": {
+            "plate": "DS47TB3333",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DS47TB3333_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.836439",
+        "data": {
+            "plate": "MP93GL5386",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MP93GL5386_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:09.998315",
+        "data": {
+            "plate": "YS91BL8334",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YS91BL8334_20260402_101309.jpg",
+            "timestamp": "20260402_101309"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:10.164067",
+        "data": {
+            "plate": "HW46AV9277",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HW46AV9277_20260402_101310.jpg",
+            "timestamp": "20260402_101310"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:10.338266",
+        "data": {
+            "plate": "VJ20ST7598",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VJ20ST7598_20260402_101310.jpg",
+            "timestamp": "20260402_101310"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:10.527850",
+        "data": {
+            "plate": "BT56YJ9035",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BT56YJ9035_20260402_101310.jpg",
+            "timestamp": "20260402_101310"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:10.691758",
+        "data": {
+            "plate": "QW65FM6546",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QW65FM6546_20260402_101310.jpg",
+            "timestamp": "20260402_101310"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:10.864744",
+        "data": {
+            "plate": "CW98WE9967",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CW98WE9967_20260402_101310.jpg",
+            "timestamp": "20260402_101310"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.021162",
+        "data": {
+            "plate": "CQ35OQ1543",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CQ35OQ1543_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.187013",
+        "data": {
+            "plate": "UD25RN2003",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UD25RN2003_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.360820",
+        "data": {
+            "plate": "OR22OO1151",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OR22OO1151_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.531671",
+        "data": {
+            "plate": "GL36DT3867",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GL36DT3867_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.704096",
+        "data": {
+            "plate": "UN41ID5475",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UN41ID5475_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:11.906185",
+        "data": {
+            "plate": "XQ75BZ2833",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XQ75BZ2833_20260402_101311.jpg",
+            "timestamp": "20260402_101311"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.070517",
+        "data": {
+            "plate": "XU52BN3992",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XU52BN3992_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.254064",
+        "data": {
+            "plate": "NZ24TP1934",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NZ24TP1934_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.435518",
+        "data": {
+            "plate": "GD51EJ5855",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GD51EJ5855_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.605970",
+        "data": {
+            "plate": "JC31OA1428",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JC31OA1428_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.774089",
+        "data": {
+            "plate": "HU72GK6512",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HU72GK6512_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:12.960120",
+        "data": {
+            "plate": "OO26EK9764",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OO26EK9764_20260402_101312.jpg",
+            "timestamp": "20260402_101312"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:13.142626",
+        "data": {
+            "plate": "LE84PN8867",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LE84PN8867_20260402_101313.jpg",
+            "timestamp": "20260402_101313"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:13.314614",
+        "data": {
+            "plate": "JS57EB9922",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JS57EB9922_20260402_101313.jpg",
+            "timestamp": "20260402_101313"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:13.488852",
+        "data": {
+            "plate": "AR51SM9696",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AR51SM9696_20260402_101313.jpg",
+            "timestamp": "20260402_101313"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:13.668906",
+        "data": {
+            "plate": "JU95YG9759",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JU95YG9759_20260402_101313.jpg",
+            "timestamp": "20260402_101313"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:13.848169",
+        "data": {
+            "plate": "UW59GF9688",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UW59GF9688_20260402_101313.jpg",
+            "timestamp": "20260402_101313"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.014072",
+        "data": {
+            "plate": "IK76SV7064",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IK76SV7064_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.201042",
+        "data": {
+            "plate": "RT19SP3478",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RT19SP3478_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.382159",
+        "data": {
+            "plate": "CC31BW4325",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CC31BW4325_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.580636",
+        "data": {
+            "plate": "UX17FD6812",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UX17FD6812_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.787446",
+        "data": {
+            "plate": "BG16LG7711",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BG16LG7711_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:14.957662",
+        "data": {
+            "plate": "DY99PX9461",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DY99PX9461_20260402_101314.jpg",
+            "timestamp": "20260402_101314"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:15.117675",
+        "data": {
+            "plate": "OW76GP5078",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OW76GP5078_20260402_101315.jpg",
+            "timestamp": "20260402_101315"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:15.299787",
+        "data": {
+            "plate": "XM91QI9742",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XM91QI9742_20260402_101315.jpg",
+            "timestamp": "20260402_101315"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:15.485142",
+        "data": {
+            "plate": "TI71QC3242",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TI71QC3242_20260402_101315.jpg",
+            "timestamp": "20260402_101315"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:15.675362",
+        "data": {
+            "plate": "TC84VO3423",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TC84VO3423_20260402_101315.jpg",
+            "timestamp": "20260402_101315"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:15.856874",
+        "data": {
+            "plate": "LB16CS7080",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LB16CS7080_20260402_101315.jpg",
+            "timestamp": "20260402_101315"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:16.027393",
+        "data": {
+            "plate": "ZP71II8234",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZP71II8234_20260402_101316.jpg",
+            "timestamp": "20260402_101316"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:16.228812",
+        "data": {
+            "plate": "LQ68SR5556",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LQ68SR5556_20260402_101316.jpg",
+            "timestamp": "20260402_101316"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:16.419598",
+        "data": {
+            "plate": "DF64UT9655",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DF64UT9655_20260402_101316.jpg",
+            "timestamp": "20260402_101316"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:16.595468",
+        "data": {
+            "plate": "ZJ40OM5189",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZJ40OM5189_20260402_101316.jpg",
+            "timestamp": "20260402_101316"
+        }
+    },
+    {
+        "time": "2026-04-02 10:13:16.786971",
+        "data": {
+            "plate": "YP25KL9561",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YP25KL9561_20260402_101316.jpg",
+            "timestamp": "20260402_101316"
+        }
+    },
+    {
+        "time": "2026-04-02 11:59:59.970997",
+        "data": {
+            "plate": "IN23UL6349",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IN23UL6349_20260402_115959.jpg",
+            "timestamp": "20260402_115959"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:00.218850",
+        "data": {
+            "plate": "PJ46FY3526",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PJ46FY3526_20260402_120000.jpg",
+            "timestamp": "20260402_120000"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:00.413384",
+        "data": {
+            "plate": "NB70PG1058",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NB70PG1058_20260402_120000.jpg",
+            "timestamp": "20260402_120000"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:00.588397",
+        "data": {
+            "plate": "VC48QT6146",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VC48QT6146_20260402_120000.jpg",
+            "timestamp": "20260402_120000"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:00.776757",
+        "data": {
+            "plate": "KG81VX4115",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KG81VX4115_20260402_120000.jpg",
+            "timestamp": "20260402_120000"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:00.968382",
+        "data": {
+            "plate": "LI19MH8371",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LI19MH8371_20260402_120000.jpg",
+            "timestamp": "20260402_120000"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.131691",
+        "data": {
+            "plate": "IB50ND5359",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IB50ND5359_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.306697",
+        "data": {
+            "plate": "JQ27RW5683",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JQ27RW5683_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.475290",
+        "data": {
+            "plate": "VB95HW1978",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VB95HW1978_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.638500",
+        "data": {
+            "plate": "OG36MZ5153",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OG36MZ5153_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.804159",
+        "data": {
+            "plate": "PQ54PY8707",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PQ54PY8707_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:01.978902",
+        "data": {
+            "plate": "GI89TZ9045",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GI89TZ9045_20260402_120001.jpg",
+            "timestamp": "20260402_120001"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.142691",
+        "data": {
+            "plate": "WD92XY9694",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WD92XY9694_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.298690",
+        "data": {
+            "plate": "DE10BR5837",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DE10BR5837_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.465890",
+        "data": {
+            "plate": "XH56AB1587",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XH56AB1587_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.626850",
+        "data": {
+            "plate": "KL99OU1264",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KL99OU1264_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.783101",
+        "data": {
+            "plate": "IZ95MA7666",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IZ95MA7666_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:02.946992",
+        "data": {
+            "plate": "WD79BP6278",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WD79BP6278_20260402_120002.jpg",
+            "timestamp": "20260402_120002"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.125962",
+        "data": {
+            "plate": "XU13ZL5996",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XU13ZL5996_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.299960",
+        "data": {
+            "plate": "XZ17RA9780",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XZ17RA9780_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.467659",
+        "data": {
+            "plate": "QY24QX7777",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QY24QX7777_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.638867",
+        "data": {
+            "plate": "NG16BQ6190",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NG16BQ6190_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.826975",
+        "data": {
+            "plate": "AU29IK4127",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AU29IK4127_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:03.990567",
+        "data": {
+            "plate": "ZF54EJ9043",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZF54EJ9043_20260402_120003.jpg",
+            "timestamp": "20260402_120003"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:04.157498",
+        "data": {
+            "plate": "AO35JL8820",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AO35JL8820_20260402_120004.jpg",
+            "timestamp": "20260402_120004"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:04.336913",
+        "data": {
+            "plate": "KW96FQ5652",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KW96FQ5652_20260402_120004.jpg",
+            "timestamp": "20260402_120004"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:04.510655",
+        "data": {
+            "plate": "DN62OD7838",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DN62OD7838_20260402_120004.jpg",
+            "timestamp": "20260402_120004"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:04.694522",
+        "data": {
+            "plate": "XQ90EX9592",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "XQ90EX9592_20260402_120004.jpg",
+            "timestamp": "20260402_120004"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:04.871629",
+        "data": {
+            "plate": "JE31WQ2784",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JE31WQ2784_20260402_120004.jpg",
+            "timestamp": "20260402_120004"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.040911",
+        "data": {
+            "plate": "GB66ZZ2303",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "GB66ZZ2303_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.216861",
+        "data": {
+            "plate": "PB60OA5222",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PB60OA5222_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.396550",
+        "data": {
+            "plate": "WE20GX2067",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WE20GX2067_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.570398",
+        "data": {
+            "plate": "BN15FQ4056",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "BN15FQ4056_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.743954",
+        "data": {
+            "plate": "JZ51CB5472",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "JZ51CB5472_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:05.919617",
+        "data": {
+            "plate": "RS72PI9504",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RS72PI9504_20260402_120005.jpg",
+            "timestamp": "20260402_120005"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.095911",
+        "data": {
+            "plate": "AT82HK5794",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AT82HK5794_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.262401",
+        "data": {
+            "plate": "FS33MX2787",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FS33MX2787_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.456173",
+        "data": {
+            "plate": "DS34VG3301",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DS34VG3301_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.626287",
+        "data": {
+            "plate": "KZ45GX7633",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KZ45GX7633_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.799577",
+        "data": {
+            "plate": "IP19VO4352",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IP19VO4352_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:06.972365",
+        "data": {
+            "plate": "GI31KZ5961",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "GI31KZ5961_20260402_120006.jpg",
+            "timestamp": "20260402_120006"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:07.144265",
+        "data": {
+            "plate": "WN97MX1640",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WN97MX1640_20260402_120007.jpg",
+            "timestamp": "20260402_120007"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:07.345823",
+        "data": {
+            "plate": "AJ60OR8309",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AJ60OR8309_20260402_120007.jpg",
+            "timestamp": "20260402_120007"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:07.519817",
+        "data": {
+            "plate": "NH23FM1578",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "NH23FM1578_20260402_120007.jpg",
+            "timestamp": "20260402_120007"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:07.701059",
+        "data": {
+            "plate": "AD43VG6268",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "AD43VG6268_20260402_120007.jpg",
+            "timestamp": "20260402_120007"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:07.881363",
+        "data": {
+            "plate": "QW67IO4411",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QW67IO4411_20260402_120007.jpg",
+            "timestamp": "20260402_120007"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.053881",
+        "data": {
+            "plate": "YL78PH6350",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YL78PH6350_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.257017",
+        "data": {
+            "plate": "HK50HY2701",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HK50HY2701_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.434174",
+        "data": {
+            "plate": "BO36RS3038",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BO36RS3038_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.605788",
+        "data": {
+            "plate": "HS21XU6579",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "HS21XU6579_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.785363",
+        "data": {
+            "plate": "CK84AB7839",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CK84AB7839_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:08.959954",
+        "data": {
+            "plate": "YM49BG5419",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "YM49BG5419_20260402_120008.jpg",
+            "timestamp": "20260402_120008"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:09.140067",
+        "data": {
+            "plate": "RY17ZV5359",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RY17ZV5359_20260402_120009.jpg",
+            "timestamp": "20260402_120009"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:09.317188",
+        "data": {
+            "plate": "DF56HP2330",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "DF56HP2330_20260402_120009.jpg",
+            "timestamp": "20260402_120009"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:09.502825",
+        "data": {
+            "plate": "DO73HX5943",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DO73HX5943_20260402_120009.jpg",
+            "timestamp": "20260402_120009"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:09.682520",
+        "data": {
+            "plate": "SQ77OH7016",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SQ77OH7016_20260402_120009.jpg",
+            "timestamp": "20260402_120009"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:09.863710",
+        "data": {
+            "plate": "TW93LZ2668",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TW93LZ2668_20260402_120009.jpg",
+            "timestamp": "20260402_120009"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.042092",
+        "data": {
+            "plate": "DF72SZ6588",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DF72SZ6588_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.213263",
+        "data": {
+            "plate": "UI43LE3296",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UI43LE3296_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.388751",
+        "data": {
+            "plate": "RH84XW3737",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RH84XW3737_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.574961",
+        "data": {
+            "plate": "KC56DW4699",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KC56DW4699_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.751836",
+        "data": {
+            "plate": "QB19KQ7212",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QB19KQ7212_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:10.928200",
+        "data": {
+            "plate": "LR72UW8085",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "LR72UW8085_20260402_120010.jpg",
+            "timestamp": "20260402_120010"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:11.102230",
+        "data": {
+            "plate": "HW71SZ6420",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "HW71SZ6420_20260402_120011.jpg",
+            "timestamp": "20260402_120011"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:11.283858",
+        "data": {
+            "plate": "ZL79ZA6275",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZL79ZA6275_20260402_120011.jpg",
+            "timestamp": "20260402_120011"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:11.468832",
+        "data": {
+            "plate": "BB45VV8190",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BB45VV8190_20260402_120011.jpg",
+            "timestamp": "20260402_120011"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:11.656469",
+        "data": {
+            "plate": "BE64YU1848",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BE64YU1848_20260402_120011.jpg",
+            "timestamp": "20260402_120011"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:11.840460",
+        "data": {
+            "plate": "LW81MD9434",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LW81MD9434_20260402_120011.jpg",
+            "timestamp": "20260402_120011"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.017295",
+        "data": {
+            "plate": "BX21AJ2158",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BX21AJ2158_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.213584",
+        "data": {
+            "plate": "IV94YG8124",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IV94YG8124_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.388897",
+        "data": {
+            "plate": "IF43RQ8155",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IF43RQ8155_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.577243",
+        "data": {
+            "plate": "ZT18NF6419",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "ZT18NF6419_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.757965",
+        "data": {
+            "plate": "BR82IK6239",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BR82IK6239_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:12.935243",
+        "data": {
+            "plate": "BI91IZ9076",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "BI91IZ9076_20260402_120012.jpg",
+            "timestamp": "20260402_120012"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:13.131546",
+        "data": {
+            "plate": "RG31WQ7359",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "RG31WQ7359_20260402_120013.jpg",
+            "timestamp": "20260402_120013"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:13.321037",
+        "data": {
+            "plate": "UM26ZT8520",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "UM26ZT8520_20260402_120013.jpg",
+            "timestamp": "20260402_120013"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:13.519912",
+        "data": {
+            "plate": "JX31HH1390",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "JX31HH1390_20260402_120013.jpg",
+            "timestamp": "20260402_120013"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:13.696114",
+        "data": {
+            "plate": "CC86LS1290",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "CC86LS1290_20260402_120013.jpg",
+            "timestamp": "20260402_120013"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:13.881911",
+        "data": {
+            "plate": "YX39ZB5196",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YX39ZB5196_20260402_120013.jpg",
+            "timestamp": "20260402_120013"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.080397",
+        "data": {
+            "plate": "FU21NM4091",
+            "violations": [
+                "Signal Jump"
+            ],
+            "signal": "RED",
+            "evidence_image": "FU21NM4091_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.259690",
+        "data": {
+            "plate": "EV15OK4940",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "EV15OK4940_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.438294",
+        "data": {
+            "plate": "FQ87SG4542",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "FQ87SG4542_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.630015",
+        "data": {
+            "plate": "MV97IG5122",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "MV97IG5122_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.804273",
+        "data": {
+            "plate": "LK50YF9259",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "LK50YF9259_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:14.993485",
+        "data": {
+            "plate": "IT46CW5229",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IT46CW5229_20260402_120014.jpg",
+            "timestamp": "20260402_120014"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:15.170754",
+        "data": {
+            "plate": "VO89XQ9383",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "VO89XQ9383_20260402_120015.jpg",
+            "timestamp": "20260402_120015"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:15.366671",
+        "data": {
+            "plate": "YP45ZR8774",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YP45ZR8774_20260402_120015.jpg",
+            "timestamp": "20260402_120015"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:15.559470",
+        "data": {
+            "plate": "KK85BD8423",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "KK85BD8423_20260402_120015.jpg",
+            "timestamp": "20260402_120015"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:15.747343",
+        "data": {
+            "plate": "TG75EH8188",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "TG75EH8188_20260402_120015.jpg",
+            "timestamp": "20260402_120015"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:15.927109",
+        "data": {
+            "plate": "QV22ZM8846",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QV22ZM8846_20260402_120015.jpg",
+            "timestamp": "20260402_120015"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:16.118778",
+        "data": {
+            "plate": "SQ90WT4913",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "SQ90WT4913_20260402_120016.jpg",
+            "timestamp": "20260402_120016"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:16.296178",
+        "data": {
+            "plate": "DJ71BS8773",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "DJ71BS8773_20260402_120016.jpg",
+            "timestamp": "20260402_120016"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:16.476210",
+        "data": {
+            "plate": "QT18NX1517",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QT18NX1517_20260402_120016.jpg",
+            "timestamp": "20260402_120016"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:16.668893",
+        "data": {
+            "plate": "IL95VR2422",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IL95VR2422_20260402_120016.jpg",
+            "timestamp": "20260402_120016"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:16.859865",
+        "data": {
+            "plate": "PM73IU7702",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "PM73IU7702_20260402_120016.jpg",
+            "timestamp": "20260402_120016"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.036340",
+        "data": {
+            "plate": "WU94VG1197",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "WU94VG1197_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.226591",
+        "data": {
+            "plate": "IM40BY8954",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IM40BY8954_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.435440",
+        "data": {
+            "plate": "QK24WM1655",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QK24WM1655_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.609457",
+        "data": {
+            "plate": "HC19XB4726",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "HC19XB4726_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.792902",
+        "data": {
+            "plate": "QK48MC9686",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QK48MC9686_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:17.981700",
+        "data": {
+            "plate": "OC70SY8665",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "OC70SY8665_20260402_120017.jpg",
+            "timestamp": "20260402_120017"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:18.160232",
+        "data": {
+            "plate": "QT37AM5526",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "QT37AM5526_20260402_120018.jpg",
+            "timestamp": "20260402_120018"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:18.335565",
+        "data": {
+            "plate": "IH41TX3653",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "IH41TX3653_20260402_120018.jpg",
+            "timestamp": "20260402_120018"
+        }
+    },
+    {
+        "time": "2026-04-02 12:00:18.527044",
+        "data": {
+            "plate": "YX17UJ1351",
+            "violations": [
+                "No Violation \u2705"
+            ],
+            "signal": "RED",
+            "evidence_image": "YX17UJ1351_20260402_120018.jpg",
+            "timestamp": "20260402_120018"
+        }
+    }
+]

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+yolov8n.pt
+data/evidence/
